@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local runtime logs created during manual runs
+app.log
+app.err
+curl_output.txt
